@@ -52,3 +52,5 @@ PsikoAI-Fullstack-Intern-Test/
 Must Have: 10 questions, scoring mechanism, result display, and data storage.
 Nice to Have: Enhanced UI/UX, Progress Bar, and differentiated result messages.
 Extra Feature: "Go Back" functionality with automated score correction.
+
+Developed by : Dwi Cahyo Nugroho
