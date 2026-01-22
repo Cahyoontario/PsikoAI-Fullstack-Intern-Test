@@ -46,7 +46,7 @@ PsikoAI-Fullstack-Intern-Test/
 │   ├── server.js        # Express server and API routes
 │   └── package.json
 └── README.md            # Project documentation
-
+```
 
 ### Assessment Criteria Met
 Must Have: 10 questions, scoring mechanism, result display, and data storage.
