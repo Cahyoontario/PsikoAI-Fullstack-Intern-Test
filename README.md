@@ -20,20 +20,20 @@ A modern, responsive personality quiz application built with React.js and Node.j
 Make sure you have Node.js installed on your machine.
 
 2. ## Setup Backend
-Open your terminal and navigate to the backend folder:
-Bash
-cd backend
-npm install
-node server.js
-The server will run on http://localhost:5000.
+- Open your terminal and navigate to the backend folder:
+- Bash
+- cd backend
+- npm install
+- node server.js
+- The server will run on http://localhost:5000.
 
 3. ## Setup Frontend
-Open a new terminal window and navigate to the frontend folder:
-Bash
-cd frontend
-npm install
-npm start
-The app will launch at http://localhost:3000.
+- Open a new terminal window and navigate to the frontend folder:
+- Bash
+- cd frontend
+- npm install
+- npm start
+- The app will launch at http://localhost:3000.
 
 ##  Project Structure
 ```text
@@ -49,8 +49,8 @@ PsikoAI-Fullstack-Intern-Test/
 ```
 
 ### Assessment Criteria Met
-Must Have: 10 questions, scoring mechanism, result display, and data storage.
-Nice to Have: Enhanced UI/UX, Progress Bar, and differentiated result messages.
-Extra Feature: "Go Back" functionality with automated score correction.
+- Must Have: 10 questions, scoring mechanism, result display, and data storage.
+- Nice to Have: Enhanced UI/UX, Progress Bar, and differentiated result messages.
+- Extra Feature: "Go Back" functionality with automated score correction.
 
 Developed by : Dwi Cahyo Nugroho
