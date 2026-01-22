@@ -35,8 +35,8 @@ npm install
 npm start
 The app will launch at http://localhost:3000.
 
-### Project Structure
-
+##  Project Structure
+```text
 PsikoAI-Fullstack-Intern-Test/
 ├── frontend/
 │   ├── src/
